@@ -1,0 +1,177 @@
+===========================================================================================================================================
+Growtopia to do list July 2019
+World archive prpkect
+I am going to try and get back into this game. If I don't make it all the way through, I would like a set of tasks to be done:
+===========================================================================================================================================
+TASK 1: World name list
+Gather a list of all of your world names (this will take a while)
+Progress:
+
+World list:
+000 NONE AVAILABLE
+001 SEANWALLAWALLAPARTY (Got a world render on January 20th 2020)
+002 SEANWALLAWALLATRAINSTATN (Got a world render on January 20th 2020)
+003 SEANWALL (Got a world render on January 20th 2020)
+004 SEANWALLAWALLASHOP (Got a world render on January 19th 2020)
+005 SEANWALLAWALLALAVA (Got a world render on January 19th 2020)
+006 SEANWALLAWALLACASINO (Got a world render on January 20th 2020)
+007 SEANWALLAWALLALAKE (Got a world render on January 20th 2020)
+008 SEANWALLAWALACAMP (Got a world render on January 20th 2020)
+009 SEANWALLAWALLASECONDFARM (Got a world render on January 20th 2020)
+010 SEANWALLAWALLABATHROOM (Got a world render on January 19th 2020)
+011 SEANWALLAWALLAUNDERWORLD (Got a world render on January 20th 2020)
+012 SEANWALLAWALLAELEMENTARY (Got a world render on January 20th 2020)
+013 SEANWALLAWALLAROYALE2 (Got a world render on January 20th 2020)
+014 SEANWALLAWALLAPOOL (Got a world render on January 19th 2020)
+015 SEANWALLAWALLANEPTUNE (Got a world render on January 20th 2020)
+016 SEANWALLAWALLAMUSIC (Got a world render on January 20th 2020)
+017 SEANWALLAWALLAHOSPITAL (Got a world render on January 20th 2020)
+018 SEANWALLAWALLAHALLOWEEN (Got a world render on January 20th 2020)
+019 SEANWALLAWALLAMAZE (Got a world render on January 20th 2020)
+020 SEANWALLAWALLACARNIVAL (Got a world render on January 20th 2020)
+021 SEANWALLAWALLACITY2 (Got a world render on January 19th 2020)
+022 SEANWALLAWALLAOCEAN5 (Got a world render on January 20th 2020)
+023 SEANWALLAWALLAMARS4 (Got a world render on January 20th 2020)
+024 SEANWALLAWALLAROYALE (Got a world render on January 19th 2020)
+025 SEANWALLAWALLAFOODWORLD (Got a world render on January 20th 2020)
+026 WINDOWSXPSERVICEPACK2
+027 SEANWALLAWALLAVAULT (Got a world render on January 19th 2020)
+028 SEANWALLAWALLAPOSTOFFICE (Got a world render on January 20th 2020)
+029 SEANWALLAWALLABEACH (Got a world render on January 20th 2020)
+030 SEANWALLAWALLASHOP0 (Got a world render on January 20th 2020)
+031 SEANWALLAWALLASHOP1 (Got a world render on January 20th 2020)
+032 SEANWALLAWALLASHOP2 (Got a world render on January 20th 2020)
+033 SEANWALLAWALLASHOP3 (Got a world render on January 20th 2020)
+034 SEANWALLAWALLASHOP4 (Got a world render on January 20th 2020)
+035 SEANWALLAWALLASHOP5 (Got a world render on January 20th 2020)
+036 SEANWALLAWALLASHOP6
+037 SEANWALLAWALLASHOP7
+038 SEANWALLAWALLASHOP8
+039 SEANWALLAWALLASHOP9
+040 SEANWALLAWALLAMOON (Got a world render on January 20th 2020)
+041 SEANWALLAWALLAWAR7 (Got a world render on January 19th 2020)
+042 SEANWALLAWALLACAVES (Got a world render on January 20th 2020)
+043 SEANWALLAWALLALOBBY (Got a world render on January 20th 2020)
+044 SEANWALLAWALLAOCEAN2 (Got a world render on January 20th 2020)
+045 START22446688 (Got a world render on January 20th 2020)
+046 SEANWALLAWALLABATHHOUSE (Got a world render on January 20th 2020)
+047 SEANWALLAWALLABANK (Got a world render on January 19th 2020)
+048 SEANWALLAWALLAWAR2 (Got a world render on January 19th 2020)
+049 SEANWALLAWALLAOCEANBLAST (Got a world render on January 19th 2020)
+050 SEANWALLAWALLAMARIO (Got a world render on January 19th 2020)
+051 SEANWALLAWALLAOCEAN (Got a world render on January 19th 2020)
+052 SEANWALLAWALLAWAR0 (Got a world render on January 19th 2020)
+053 SEANWALLAWALLAJUNGLE2 (Got a world render on January 19th 2020)
+054 SEANWALLAWALLAHUB (Got a world render on January 19th 2020)
+055 SEANWALLAWALLAMEDIEVEL (Got a world render on January 20th 2020)
+056 MITCHELLEXE (Got a world render on January 20th 2020)
+057 RATEQUIT (Got a world render on January 20th 2020)
+058 SEANWALLAWALLAFIREHOUSE (Got a world render on January 20th 2020)
+059 SEANWALLAWALLAMITCHGROW
+060 SEANWALLAWALLAMARS (Got a world render on January 19th 2020)
+061 SEANWALLAWALLALABORATORY (Got a world render on January 20th 2020)
+062 SEANWALLAWALLAPARKOUR (Got a world render on January 19th 2020)
+063 SEANWALLAWALLA0 (Got a world render on January 20th 2020)
+064 SEANWALLAWALLASCHOOL (Got a world render on January 20th 2020)
+065 SEANWALLAWALLA1 (Got a world render on January 20th 2020)
+066 SEANWALLAWALLA2 (Got a world render on January 19th 2020)
+067 SEANWALLAWALLA3 (Got a world render on January 19th 2020)
+068 SEANWALLAWALLA4 (Got a world render on January 20th 2020)
+069 SEANWALLAWALLA5 (Got a world render on January 20th 2020)
+070 SEANWALLAWALLA7
+071 SEANWALLAWALLA8
+072 SEANWALLAWALLA9
+073 SEANWALLAWALLATHIRDFARM (Got a world render on January 20th 2020)
+074 SEANWALLAWALLAFARM (Got a world render on January 19th 2020)
+075 SEANWALLAWALLABARN (Got a world render on January 20th 2020)
+076 SEANWALLAWALLAOCEAN3 (Got a world render on January 20th 2020)
+077 SEANWALLAWALLAMARS3 (Got a world render on January 20th 2020)
+078 SEANWALLAWALLAADVENTURE (Got a world render on January 20th 2020)
+079 SEANWALLAWALLABBLAST (Got a world render on January 20th 2020)
+080 SEANWALLAWALLACITY (Got a world render on January 19th 2020)
+081 SEANWALLAWALLALOCKSMITH (Got a world render on January 19th 2020)
+082 SEANWALLAWALLALIBRARY (Got a world render on January 20th 2020)
+083 SEANWALLAWALLAGARDEN (Got a world render on January 19th 2020)
+084 SEANWALLAWALLAPOWERPLANT (Got a world render on January 20th 2020)
+085 SEANWALLAWALLAGREEK (Got a world render on January 20th 2020)
+086 SEANWALLAWALLAWAR3 (Got a world render on January 19th 2020)
+087 SEANWALLAWALLACHRISTMAS (Got a world render on January 20th 2020)
+088 SEANWALLAWALLAWAR6 (Got a world render on January 19th 2020)
+089 SEANWALLAWALLAJAIL (Got a world render on January 20th 2020)
+090 SEANWALLAWALLABAKERY (Got a world render on January 20th 2020)
+091 SEANWALLAWALLADUNGEON (Got a world render on January 20th 2020)
+092 SEANWALLAWALLAFOREST (Got a world render on January 19th 2020)
+093 SEANWALLAWALLAWAR1 (Got a world render on January 19th 2020)
+094 SEANWALLAWALLAJUNGLE (Got a world render on January 19th 2020)
+095 SEANWALLAWAL
+096 SEANWALLAWALLAFIRE (Got a world render on January 19th 2020)
+097 SEANWALLAWALLAHOTEL
+098 SEANWALLAWALLAWARQUEST
+099 SEANWALLAWALLATRAP
+100 SEANWALLAWALLARESTAURANT (Got a world render on January 20th 2020)
+101 SEANWALLAWALLAMARS0
+102 SEANWALLAWALLAKITCHEN (Got a world render on January 19th 2020)
+103 SEANWALLAWALLATROLL (Got a world render on January 20th 2020)
+104 SEANWALLAWALLAWAR9 (Got a world render on January 20th 2020)
+105 SEANWALLAWALLAPETSHOP (Got a world render on January 20th 2020)
+106 SEANWALLAWALLAZOO (Got a world render on January 20th 2020)
+107 SEANSMAZE12550757525
+108 SEANWALLAWALLAMOVIE4
+109 SEANWALLAWALLA (Got a world render on January 19th 2020)
+110 SEANWALLAWALLAROYAL
+111 SEANWALLAWALLASONIC (Got a world render on January 19th 2020)
+112 SEANWALLAWALLAMOVIE (Got a world render on January 19th 2020)
+113 SEANWALLAWALLAPUZZLE
+114 SEANWALLAWALLACHALLENGE1 (Got a world render on January 20th 2020)
+115 SEANWALLAWALLASAWMILL
+116 SEANWALLAWALLACASTLE (Got a world render on January 19th 2020)
+117 SEANWALLAWALLAWAR8 (Got a world render on January 19th 2020)
+118 SEANWALLAWALLACHALLENGE3
+119 SEANWALLAWALLAMALL
+120 SEANWALLAWALLAGIFTSHOP
+121 SEANWALLAWALLACHALLENGE
+122 SEANWALLAWALLASTATISTICS
+123 SEANWALLAWALLACITYHALL
+124 SEANWALLAWALLACHALLENGE2 (Got a world render on January 20th 2020)
+125 SEANWALLAWALLABUBBLEWRAP (Got a world render on January 19th 2020)
+126 SEANWALLAW
+127 SEANWALLAWALLAHOSPITAL2
+128 SEANWALLAWALLASPACE
+129 SEANWALLAWALLACHALLENGEW
+130 SEANWALLAWALLAOCEAN4 (Got a world render on January 20th 2020)
+131 SEANWALLAWALLAWAR4 (Got a world render on January 19th 2020)
+132 SEANWALLAWALLAPINBALL (Got a world render on January 19th 2020)
+133 WINDOWSXPSERVICEPACK1
+134 MITCHIO2
+135 SEANWALLAWALLAWAR (Got a world render on January 19th 2020)
+136 SEANWALLAWALLAMOVIE2 (Got a world render on January 20th 2020)
+137 SEANWALLAWALLASONIC2 (Got a world render on January 20th 2020)
+138 SEANWALLAWALLAMANSION (Got a world render on January 19th 2020)
+139 SEANWALLAWALLACAVE (Got a world render on January 20th 2020)
+140 SEANWALLAWALLAMINE (Got a world render on January 19th 2020)
+141 OMGVVVVVVVVVIIIIIIIPPPPP
+142 SEANWALLAWALLAMETROPOLIS
+143 SEANWALLAWALLAMOVIE3
+144 WINDOWSXPSERVICEPACK3 (Got a world render on January 20th 2020)
+145 LOLSX100
+146 SEANWALLAWALLAOCEAN6 (Got a world render on January 20th 2020)
+147 SEANWALLA (Got a world render on January 20th 2020)
+148 SEANWALLAWALLAMARSBLAST
+149 MITCHGROW9
+150 SEANWALLAWALLAWAR5 (Got a world render on January 19th 2020)
+151 NONE AVAILABLE
+===========================================================================================================================================
+TASK 2: /worldrender all worlds
+Get a picture of all of your worlds
+Progress:
+===========================================================================================================================================
+Future plan:
+Long 4K video tour of ALL of your worlds in order (possible livestream to ensure data isn't lost) this video will be at least 1 hour long
+===========================================================================================================================================
+File version history
+V1: July 20th 2019 - WINDOWS (CR) (LF)
+V2: July 20th 2019 - WINDOWS (CR) (LF)
+V3: January 20th 2020 - UNIX (LF)
+V4: January 20th 2020 - UNIX (LF)
+V5: Coming soon
+===========================================================================================================================================

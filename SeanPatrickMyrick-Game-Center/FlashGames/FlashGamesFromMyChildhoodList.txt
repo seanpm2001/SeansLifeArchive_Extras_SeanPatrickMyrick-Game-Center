@@ -1,0 +1,51 @@
+================================================================================
+Flash games from my childhood (March 21st 2001- March 20th 2019)
+By Sean Patrick Myrick
+Part of the Sean Patrick Myrick Life archive
+================================================================================
+
+List
+
+1. Snowcraft [via Snowcraft]
+2. Color world [via Coolmathgames]
+3. Color World origin [via Coolmathgames]
+4. Johnny upgrade [via Coolmathgames]
+5. XTreme Motobike (name might not be correct) [via Coolmathgames]
+6. Run [via Coolmathgames]
+7. Run 2 [via Coolmathgames]
+8. Fireboy and watergirl in [missing] [via Coolmathgames]
+9. Red ball 4 [via Coolmathgames]
+10. Sticky ninja [via Coolmathgames]
+11. Bob the builder [via Sprout]
+12. Sugar sugar [via Coolmathgames]
+13. Sugar sugar 2 [via Coolmathgames]
+14. Snail bob [via Coolmathgames]
+15. Snail bob 2 [via Coolmathgames]
+16. Paint ninjas (name might not be correct) [via Coolmathgames]
+17. Papas pizzeria [via Coolmathgames]
+18. Papas burgeria [via Coolmathgames]
+19. Hungry pumpkin [via hungry pumpkin] (I am very hungry, give me the child, *chomp* slaps lips {bloop, score +1}, give me the bacon, *chomp* slaps lips {bloop, score +1} give me the pumpkin pie, *confused chomp* [implodes] {score +5000 (gradually rises to 5002 over a period of 4 seconds)})
+20. More possibly coming soon
+
+================================================================================
+
+Sources:
+
+Snowcraft
+Coolmathgames
+Sprout
+Hungry pumpkin
+
+================================================================================
+File info
+
+Line count: 0,.051
+Character count: 01,.851 characters
+Encoding: UTF-8
+Indent style: UNIX (LF)
+
+File version history
+Version 1 - January 16th 2020 [UNIX LF]
+Version 2 - January 17th 2020 [UNIX LF]
+
+================================================================================
